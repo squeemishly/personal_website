@@ -114,6 +114,22 @@ img{
   padding: 10px 20px;
 }
 
+footer{
+  background-color: #9B111E;
+  color: white;
+  font-size: 1.25em;
+}
+
+footer a{
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+footer p span{
+  padding: 20px;
+}
+
 #active{
   background-color: #720E19;
 }
