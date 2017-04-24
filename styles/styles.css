@@ -82,14 +82,11 @@ nav ul li {
   display: inline;
   padding: 16px;
   color: white;
-  font-size: 2em;
+  font-size: 1.75em;
   width: 25%;
   float: left;
   box-sizing: border-box;
   text-align: center;
-}
-
-nav ul li:active{
 }
 
 nav ul li:hover{
@@ -126,10 +123,11 @@ img{
   position: absolute;
   top: 23.5em;
   right: 4em;
+  text-align: center;
 }
 
 #content{
   position: relative;
-  padding: 1em 18em 1em 1em;
+  padding: 1em 15em 1em 1em;
   clear: both;
 }
